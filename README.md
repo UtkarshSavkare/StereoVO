@@ -1,9 +1,7 @@
 # StereoVO
 
 Mater Thesis Project EITM 2021-23 Technische Universität Wien (TUW) & Scuola Universitaria Professionale Della Svizzera Italiana (SUPSI)
-
 The vision-based motion estimation system is designed to estimate the motion and pose of a mobile robot in harsh environments.
-
 The system uses stereo visual odometry techniques to analyse image sequences from a stereo camera setup. 
 
 # Modules 
@@ -17,7 +15,6 @@ Stereo_calibration/stereovision_calibration.py  performs stereo camera calibrati
 Offline_KITTI
 
 The KITTI Visual Odometry dataset is a well-established benchmark designed to assess the accuracy and robustness of visual odometry algorithms under various real-world driving scenarios.
-
 we have utilized the grayscale sequence 01 from the KITTI Visual Odometry dataset, encompassing the first 101 frames to understand the basic working of VO algorithm.
 
 we explored monocular VO - Offline_KITTI/mono_VO_Offline.py
