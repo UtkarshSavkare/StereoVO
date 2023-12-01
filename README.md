@@ -1,6 +1,7 @@
 # StereoVO
 
 Mater Thesis Project EITM 2021-23 Technische Universität Wien (TUW) & Scuola Universitaria Professionale Della Svizzera Italiana (SUPSI)
+
 The vision-based motion estimation system is designed to estimate the motion and pose of a mobile robot in harsh environments.
 The system uses stereo visual odometry techniques to analyse image sequences from a stereo camera setup. 
 
