@@ -22,5 +22,5 @@ Online_SVO/videostream_D455.py used to capture sequence of stereo pairs.
 Online_SVO/scale_factor.py to get appropriate scale factor.
 Online_SVO/SVO_Main.py perform camera pose and motion estimation (SVO).
 
-#Results
+# Results
 Detailed analysis in published master thesis at TU Wien Online repository https://repositum.tuwien.at/
